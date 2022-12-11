@@ -25,13 +25,13 @@ We will connect to StepZen to access the media stack api
 
 On a new Terminal, run the following commands:
 
-- Open a new terminal and initialize StepZen on your project:
+- initialize StepZen on your project:
 
 ```bash
 stepzen init
 ```
 
-- Import the rest api url:
+- import the rest api url:
 
 ```bash
 stepzen import curl "http://api.mediastack.com/v1/news?access_key=key-goes-here"
