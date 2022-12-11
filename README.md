@@ -23,10 +23,6 @@ We will connect to StepZen to access the media stack api
 
 ### Implementing
 
-On Account menu:
-
-- Copy your API Key to your environment variable local file
-
 On a new Terminal, run the following commands:
 
 - Open a new terminal and initialize StepZen on your project:
@@ -40,6 +36,10 @@ stepzen init
 ```bash
 stepzen import curl "http://api.mediastack.com/v1/news?access_key=key-goes-here"
 ```
+
+On Stepzen Account menu:
+
+- Copy your API Key to your environment variable local file
 
 ## How to Start your app:
 
