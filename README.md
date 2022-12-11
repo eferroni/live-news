@@ -29,8 +29,17 @@ On Account menu:
 
 On a new Terminal, run the following commands:
 
-- Open a new terminal and initialize StepZen on your project: `stepzen init`
-- Import the rest api url: `stepzen import curl "http://api.mediastack.com/v1/news?access_key=key-goes-here"`
+- Open a new terminal and initialize StepZen on your project:
+
+```bash
+stepzen init
+```
+
+- Import the rest api url:
+
+```bash
+stepzen import curl "http://api.mediastack.com/v1/news?access_key=key-goes-here"
+```
 
 ## How to Start your app:
 
