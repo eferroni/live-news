@@ -9,7 +9,7 @@ What? It's a free, simple rest api for live news and blog articles
 
 ## Stepzen:
 
-What? middleware that transform a rest api to graphql
+What? It's a middleware that transform a rest api to graphql
 
 We will connect to StepZen to access the media stack api
 
@@ -29,14 +29,14 @@ On Account menu:
 
 ## How to Start your app:
 
-Run the following commands in teo terminals:
+Run the following commands in two terminals:
 
 - `stepzen start`
 - `npm run dev`
 
 ## Environment variables:
 
-.env sample file:
+.env.local sample file:
 
 ```
 MEDIASTACK_API_KEY=key_value
