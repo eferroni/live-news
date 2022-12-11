@@ -10,14 +10,15 @@ What? It's a free, simple rest api for live news and blog articles
 ## Stepzen:
 
 What? middleware that transform a rest api to graphql
+
 We will connect to StepZen to access the media stack api
 
 - Create an account on https://stepzen.com/
 
 ### Installing:
 
-- Install StepZen globally on your machine: npm install -g stepzen
-- Log in with your StepZen account: `bash stepzen login -a username`
+- Install StepZen globally on your machine: `npm install -g stepzen`
+- Log in with your StepZen account: `stepzen login -a username`
 - Enter your Admin Key, copy and paste from the StepZen Getting Started page
 
 ### Implementing
@@ -29,8 +30,9 @@ On Account menu:
 ## How to Start your app:
 
 Run the following commands in teo terminals:
-`stepzen start`
-`npm run dev`
+
+- `stepzen start`
+- `npm run dev`
 
 ## Environment variables:
 
