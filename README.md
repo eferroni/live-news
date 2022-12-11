@@ -27,6 +27,11 @@ On Account menu:
 
 - Copy your API Key to your environment variable local file
 
+On a new Terminal, run the following commands:
+
+- Open a new terminal and initialize StepZen on your project: `stepzen init`
+- Import the rest api url: `stepzen import curl "http://api.mediastack.com/v1/news?access_key=key-goes-here"`
+
 ## How to Start your app:
 
 Run the following commands in two terminals:
