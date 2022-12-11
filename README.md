@@ -25,7 +25,7 @@ We will connect to StepZen to access the media stack api
 
 On a new Terminal, run the following commands:
 
-- initialize StepZen on your project:
+- initialize StepZen in your project:
 
 ```bash
 stepzen init
