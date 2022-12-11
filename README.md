@@ -31,8 +31,13 @@ On Account menu:
 
 Run the following commands in two terminals:
 
-- `stepzen start`
-- `npm run dev`
+```bash
+stepzen start
+```
+
+```bash
+npm run dev
+```
 
 ## Environment variables:
 
